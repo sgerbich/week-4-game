@@ -1,0 +1,31 @@
+body{
+    background-color: red;
+}
+#header {
+    font-size: 50px;
+    background-color: blue;
+    width: 200px;
+    height:100px;
+    padding-left: 15px;
+    text-align: center;
+
+}
+
+#pstruct{
+    text-align: center;
+    background-color: brown;
+    width: 200px;
+    height: 300px;
+}
+#special-numberbox{
+    width:150px;
+    height:100px;
+    margin-top: 20px;
+    background-color: green;
+}
+#winsLosses{
+    width: 75px;
+    height: 100px;
+    margin-top: 10px;
+    background-color: blue;
+}
